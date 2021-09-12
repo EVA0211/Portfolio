@@ -1,22 +1,23 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Title: Care & Excitation
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Client：Single, divorced with children, low-income groups
 
-Jekyll also offers powerful support for code snippets:
+Personal interests: Modern, minimal
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Capacity: 1-2
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Pets: Available 0-3
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Other cohabitants: Party is available
+
+Definition of home
+“For without hearts there is no home.” From Don Juan by Lord Byron. 
+
+Home is often a psychological feeling for people. People tend to like better houses, but when people actually move into a new home, most people will feel a little uncomfortable in the early stage. This feeling means that the home cannot be just a gorgeous, beautifully decorated house, it is also related to the feelings of the residents.Home is the home of feelings. What people feel at home is trust and safety, and they can also feel a sense of peace and belonging. This is a place where people can get relief and comfort after going through setbacks and sufferings. This means that when designing this spiritual sanctuary, it is necessary to emphasize its role in the spiritual aspects of the inhabitants. 
+
+In this project, although the area of the house is not large, I think we should pay more attention to the design of its internal space than to make the appearance of the house look more fashionable. In this small space, there must be an open space to communicate with the outside world and a space independent of the external environment to provide residents with privacy requirements.
+
+Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
