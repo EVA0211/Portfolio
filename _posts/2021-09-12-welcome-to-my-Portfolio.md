@@ -14,6 +14,7 @@ Pets: Available 0-3
 Other cohabitants: Party is available
 
 Definition of home
+
 “For without hearts there is no home.” From Don Juan by Lord Byron. 
 
 Home is often a psychological feeling for people. People tend to like better houses, but when people actually move into a new home, most people will feel a little uncomfortable in the early stage. This feeling means that the home cannot be just a gorgeous, beautifully decorated house, it is also related to the feelings of the residents.Home is the home of feelings. What people feel at home is trust and safety, and they can also feel a sense of peace and belonging. This is a place where people can get relief and comfort after going through setbacks and sufferings. This means that when designing this spiritual sanctuary, it is necessary to emphasize its role in the spiritual aspects of the inhabitants. 
