@@ -4,7 +4,7 @@ author:
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1
-show_excerpts: ture # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -13,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  EVA0211
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
