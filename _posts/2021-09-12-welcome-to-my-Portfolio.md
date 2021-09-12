@@ -1,6 +1,3 @@
----
-layout: post
----
 Title: Care & Excitation
 
 Client：Single, divorced with children, low-income groups
