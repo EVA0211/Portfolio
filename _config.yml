@@ -3,7 +3,7 @@ author:
   name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1TEST1 TEST1
+  A web page where an architecture student records work.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
