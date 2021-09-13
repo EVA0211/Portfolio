@@ -28,3 +28,5 @@ Designers cannot replace residents to reflect who they are and their personaliti
 ![3](https://github.com/EVA0211/Portfolio/blob/master/images/3.pdf)
 
 ![4](https://github.com/EVA0211/Portfolio/blob/master/images/4.pdf)
+![19e4249b0c20fcc9f15f69245a3b1da5591bced8](https://user-images.githubusercontent.com/90520541/133013404-a46a4fa3-7b69-4f9a-b27c-587e78692119.jpg)
+![9aea5f2f726e050d2df2f0eb531d90b497790c46](https://user-images.githubusercontent.com/90520541/133013411-3d426864-bf2b-4963-ab19-cbcacee7287b.jpg)
