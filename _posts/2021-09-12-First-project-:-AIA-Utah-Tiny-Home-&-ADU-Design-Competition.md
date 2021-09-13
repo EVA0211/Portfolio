@@ -21,6 +21,12 @@ In this project, although the area of the house is not large, I think we should 
 
 Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
 
-![000-1](https://user-images.githubusercontent.com/90520541/133019592-c8f36bd5-d499-44ad-9fa2-72730025f0be.png)
+![未标题-1](https://user-images.githubusercontent.com/90520541/133021981-d61bc3ab-72b8-4ac0-91d5-2ad5146a5b0a.png)
 
 
+![2-2](https://user-images.githubusercontent.com/90520541/133021968-b1afff9e-4230-4c94-a1d9-3b035f333cd5.png)
+
+
+Hypothetical site
+
+This hypothetical site is located in the eastern mountain area of South Lake City. Due to the small number of residents, the infrastructure may be defective, and the surrounding public service facilities are far away, making life inconvenient for residents. The advantage is that the land price is lower, which is more suitable for low- and middle-income people, and the hilly terrain will make the architectural design more diverse
