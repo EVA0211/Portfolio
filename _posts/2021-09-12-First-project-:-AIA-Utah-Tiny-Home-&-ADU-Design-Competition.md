@@ -21,4 +21,10 @@ In this project, although the area of the house is not large, I think we should 
 
 Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
 
-[something] (images/1.pdf)
+![](https://github.com/EVA0211/Portfolio/blob/master/images/1.pdf)
+
+![](https://github.com/EVA0211/Portfolio/blob/master/images/2.pdf)
+
+![](https://github.com/EVA0211/Portfolio/blob/master/images/3.pdf)
+
+![](https://github.com/EVA0211/Portfolio/blob/master/images/4.pdf)
