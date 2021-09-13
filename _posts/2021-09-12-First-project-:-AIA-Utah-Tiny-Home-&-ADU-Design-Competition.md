@@ -1,3 +1,6 @@
+![19e4249b0c20fcc9f15f69245a3b1da5591bced8](https://user-images.githubusercontent.com/90520541/133013893-23297355-d9ef-431b-8fab-ebe957000b35.jpg)
+![894)](https://user-images.githubusercontent.com/90520541/133013907-54982827-48c0-4ba1-b11c-5a443bcf927a.jpg)
+![5532](https://user-images.githubusercontent.com/90520541/133013920-b9d4d0aa-4635-4763-b4a2-e39502201555.jpg)
 
 Title: Care & Excitation
 
@@ -28,5 +31,11 @@ Designers cannot replace residents to reflect who they are and their personaliti
 ![3](https://github.com/EVA0211/Portfolio/blob/master/images/3.pdf)
 
 ![4](https://github.com/EVA0211/Portfolio/blob/master/images/4.pdf)
-![19e4249b0c20fcc9f15f69245a3b1da5591bced8](https://user-images.githubusercontent.com/90520541/133013404-a46a4fa3-7b69-4f9a-b27c-587e78692119.jpg)
-![9aea5f2f726e050d2df2f0eb531d90b497790c46](https://user-images.githubusercontent.com/90520541/133013411-3d426864-bf2b-4963-ab19-cbcacee7287b.jpg)
+![19e4249b0c20fcc9f15f69245a3b1da5591bced8](https://user-images.githubusercontent.com/90520541/133013968-877ffa58-0eee-4961-b332-6b4fb470da36.jpg)
+![9aea5f2f726e050d2df2f0eb531d90b497790c46](https://user-images.githubusercontent.com/90520541/133013974-f2eeb3fd-6d45-4064-91a4-348fc6810a98.jpg)
+![894)](https://user-images.githubusercontent.com/90520541/133013982-a8d2ccbb-5d57-48ce-8b1d-a3f4f2526ae7.jpg)
+![下载 (32)](https://user-images.githubusercontent.com/90520541/133014029-d0639fcc-1ad2-4952-9c65-f6841a39d87f.jpg)
+![下载 (33212)](https://user-images.githubusercontent.com/90520541/133014034-2a71b33c-a82d-4409-b6aa-1dedd63efc63.jpg)
+![下载 (22)](https://user-images.githubusercontent.com/90520541/133014042-d1b29460-b4b1-4c40-acda-bdc053be17c1.jpg)
+![下载2](https://user-images.githubusercontent.com/90520541/133014050-3925d196-dca8-4a9c-b2f0-7d5d6014fb19.jpg)
+![下载324](https://user-images.githubusercontent.com/90520541/133014056-05d42bbc-e028-435a-bdf9-4601456238f6.jpg)
