@@ -20,3 +20,5 @@ Home is often a psychological feeling for people. People tend to like better hou
 In this project, although the area of the house is not large, I think we should pay more attention to the design of its internal space than to make the appearance of the house look more fashionable. In this small space, there must be an open space to communicate with the outside world and a space independent of the external environment to provide residents with privacy requirements.
 
 Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
+
+[something] (images/1.pdf)
