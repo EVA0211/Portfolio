@@ -1,6 +1,5 @@
-![19e4249b0c20fcc9f15f69245a3b1da5591bced8](https://user-images.githubusercontent.com/90520541/133013893-23297355-d9ef-431b-8fab-ebe957000b35.jpg)
+![下载324](https://user-images.githubusercontent.com/90520541/133014056-05d42bbc-e028-435a-bdf9-4601456238f6.jpg)
 ![894)](https://user-images.githubusercontent.com/90520541/133013907-54982827-48c0-4ba1-b11c-5a443bcf927a.jpg)
-![5532](https://user-images.githubusercontent.com/90520541/133013920-b9d4d0aa-4635-4763-b4a2-e39502201555.jpg)
 
 Title: Care & Excitation
 
@@ -38,4 +37,4 @@ Designers cannot replace residents to reflect who they are and their personaliti
 ![下载 (33212)](https://user-images.githubusercontent.com/90520541/133014034-2a71b33c-a82d-4409-b6aa-1dedd63efc63.jpg)
 ![下载 (22)](https://user-images.githubusercontent.com/90520541/133014042-d1b29460-b4b1-4c40-acda-bdc053be17c1.jpg)
 ![下载2](https://user-images.githubusercontent.com/90520541/133014050-3925d196-dca8-4a9c-b2f0-7d5d6014fb19.jpg)
-![下载324](https://user-images.githubusercontent.com/90520541/133014056-05d42bbc-e028-435a-bdf9-4601456238f6.jpg)
+
