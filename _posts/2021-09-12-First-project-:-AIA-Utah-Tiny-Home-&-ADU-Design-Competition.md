@@ -21,12 +21,14 @@ In this project, although the area of the house is not large, I think we should 
 
 Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
 
-![未标题-1](https://user-images.githubusercontent.com/90520541/133021981-d61bc3ab-72b8-4ac0-91d5-2ad5146a5b0a.png)
+![2-2](https://user-images.githubusercontent.com/90520541/133205046-435c5d5a-0c0d-409e-976f-7d9f0f1cca09.png)
 
-
-![2-2](https://user-images.githubusercontent.com/90520541/133021968-b1afff9e-4230-4c94-a1d9-3b035f333cd5.png)
-
-
+![屏幕截图 2021-09-13 103344](https://user-images.githubusercontent.com/90520541/133205088-c1726a46-3abd-43aa-8edb-5e7717c58849.png)
 Hypothetical site
 
 This hypothetical site is located in the eastern mountain area of South Lake City. Due to the small number of residents, the infrastructure may be defective, and the surrounding public service facilities are far away, making life inconvenient for residents. The advantage is that the land price is lower, which is more suitable for low- and middle-income people, and the hilly terrain will make the architectural design more diverse
+
+![2-1](https://user-images.githubusercontent.com/90520541/133205106-2f455fbf-694a-47bc-a512-0b3161f3822a.png)
+Hypothetical site
+
+This hypothetical site is built along the river in the urban area of south lake city, and is close to schools, medical departments, churches, parks and supermarkets. Residents live easily but the land price is relatively high and there is little available space in this area. At the same time, there are a large number of parks along the river, and the construction of houses here may face the problem of land use rights
