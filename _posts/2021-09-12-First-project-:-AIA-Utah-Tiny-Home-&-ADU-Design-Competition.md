@@ -21,6 +21,13 @@ In this project, although the area of the house is not large, I think we should 
 
 Designers cannot replace residents to reflect who they are and their personalities and lifestyles, but we can help residents construct a generally suitable space for them to show their understanding of life
 
+![未标题-1](https://user-images.githubusercontent.com/90520541/133206406-521d741f-c937-4ddd-8959-60e62f092721.png)
+
+![未标题-2](https://user-images.githubusercontent.com/90520541/133206412-67c40f65-91b6-49f0-b67a-9e4862c0ddcb.png)
+
+![未标题-3](https://user-images.githubusercontent.com/90520541/133206430-0c6c4245-5caf-4185-a5fd-c1e17816b5bf.png)
+
+
 ![2-2](https://user-images.githubusercontent.com/90520541/133205046-435c5d5a-0c0d-409e-976f-7d9f0f1cca09.png)
 
 ![屏幕截图 2021-09-13 103344](https://user-images.githubusercontent.com/90520541/133205088-c1726a46-3abd-43aa-8edb-5e7717c58849.png)
