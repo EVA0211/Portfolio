@@ -34,5 +34,3 @@ This hypothetical site is located in the eastern mountain area of South Lake Cit
 Hypothetical site
 
 This hypothetical site is built along the river in the urban area of south lake city, and is close to schools, medical departments, churches, parks and supermarkets. Residents live easily but the land price is relatively high and there is little available space in this area. At the same time, there are a large number of parks along the river, and the construction of houses here may face the problem of land use rights
-
-![f248845ab08dc05ba62289f32b78056](https://user-images.githubusercontent.com/90520541/133968309-16c4eb50-e863-4927-a3e0-62882c8ffd35.jpg)
